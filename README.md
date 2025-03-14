@@ -24,3 +24,6 @@ Respond to user interactions.
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
+
+#### ANSWER
+    I have attached a folder with with the html, css and javascript answer (Week 5 Assignment).
